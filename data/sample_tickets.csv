@@ -1,0 +1,61 @@
+ticket_id,user_email,category,description,status,created_at
+TKT-1001,staff1@uaf-africa.org,M365 SharePoint,Unable to access the shared regional grants folder on SharePoint. Access denied error.,Resolved,2026-03-01
+TKT-1002,staff2@uaf-africa.org,Password Reset,Locked out of my corporate Microsoft 365 account after password expiration.,Resolved,2026-03-02
+TKT-1003,staff3@uaf-africa.org,VPN Connectivity,VPN client fails to connect to the East Africa regional server gateway.,Open,2026-03-03
+TKT-1004,staff4@uaf-africa.org,M365 Teams,Cannot join virtual meeting breakout rooms or share screen in Microsoft Teams.,Resolved,2026-03-04
+TKT-1005,staff5@uaf-africa.org,Password Reset,Need password reset for corporate email and Outlook mobile app.,Resolved,2026-03-05
+TKT-1006,staff6@uaf-africa.org,M365 SharePoint,SharePoint document syncing error in OneDrive desktop application.,Open,2026-03-06
+TKT-1007,staff7@uaf-africa.org,VPN Connectivity,Timeout error when trying to authenticate via VPN from remote office.,Open,2026-03-07
+TKT-1008,staff8@uaf-africa.org,M365 Outlook,Emails are not syncing or downloading in the Outlook desktop client.,Resolved,2026-03-08
+TKT-1009,staff9@uaf-africa.org,Hardware,Laptop keyboard unresponsive after waking up from sleep mode.,Resolved,2026-03-09
+TKT-1010,staff10@uaf-africa.org,M365 OneDrive,Files uploaded to OneDrive are not reflecting on web storage.,Open,2026-03-10
+TKT-1011,staff11@uaf-africa.org,Password Reset,Temporary password expired before first successful login.,Resolved,2026-03-11
+TKT-1012,staff12@uaf-africa.org,Printer,Network printer on the second floor offline or not responding.,Resolved,2026-03-12
+TKT-1013,staff13@uaf-africa.org,M365 SharePoint,Missing permission request for new team member on regional folder.,Open,2026-03-13
+TKT-1014,staff14@uaf-africa.org,VPN Connectivity,Frequent disconnection drops during secure file transfers.,Resolved,2026-03-14
+TKT-1015,staff15@uaf-africa.org,M365 Teams,Audio output device settings resetting randomly in meetings.,Resolved,2026-03-15
+TKT-1016,staff16@uaf-africa.org,Security,Received suspicious email prompting for credential verification.,Resolved,2026-03-16
+TKT-1017,staff17@uaf-africa.org,M365 Forms,Unable to view responses submitted on the regional grant evaluation form.,Open,2026-03-17
+TKT-1018,staff18@uaf-africa.org,Hardware,External monitor fails to detect signal via USB-C docking station.,Resolved,2026-03-18
+TKT-1019,staff19@uaf-africa.org,Password Reset,Multi-factor authentication (MFA) app prompt not triggering on mobile device.,Resolved,2026-03-19
+TKT-1020,staff20@uaf-africa.org,M365 Outlook,Calendar meeting invites showing incorrect time zone conversions.,Open,2026-03-20
+TKT-1021,staff21@uaf-africa.org,VPN Connectivity,Authentication failure due to certificate mismatch error.,Resolved,2026-03-21
+TKT-1022,staff22@uaf-africa.org,M365 SharePoint,Version history missing on updated strategic plan document.,Resolved,2026-03-22
+TKT-1023,staff23@uaf-africa.org,Hardware,Battery draining rapidly even when laptop is powered off.,Open,2026-03-23
+TKT-1024,staff24@uaf-africa.org,M365 Teams,Chat history not loading across desktop and mobile versions.,Resolved,2026-03-24
+TKT-1025,staff25@uaf-africa.org,Password Reset,Account locked after multiple incorrect PIN entries.,Resolved,2026-03-25
+TKT-1026,staff26@uaf-africa.org,M365 OneDrive,Shared link permissions revoked unexpectedly by system.,Open,2026-03-26
+TKT-1027,staff27@uaf-africa.org,Printer,Unable to install secure driver for office label printer.,Resolved,2026-03-27
+TKT-1028,staff28@uaf-africa.org,Security,Reported unauthorized login attempt alert from unfamiliar IP.,Resolved,2026-03-28
+TKT-1029,staff29@uaf-africa.org,M365 Outlook,Out of office automatic replies not sending to external partners.,Resolved,2026-03-29
+TKT-1030,staff30@uaf-africa.org,VPN Connectivity,DNS resolution fails when connected to corporate virtual network.,Open,2026-03-30
+TKT-1031,staff31@uaf-africa.org,M365 SharePoint,Metadata tags missing from archived project directory.,Resolved,2026-03-31
+TKT-1032,staff32@uaf-africa.org,Hardware,Webcam not recognized by conferencing software applications.,Resolved,2026-03-01
+TKT-1033,staff33@uaf-africa.org,Password Reset,Requesting emergency password reset for urgent travel access.,Resolved,2026-03-02
+TKT-1034,staff34@uaf-africa.org,M365 Teams,Background blur feature option missing from video settings.,Open,2026-03-03
+TKT-1035,staff35@uaf-africa.org,M365 OneDrive,Storage quota warning alert displayed despite clearing trash files.,Resolved,2026-03-04
+TKT-1036,staff36@uaf-africa.org,Security,Antivirus scan scheduled task failing on background worker node.,Resolved,2026-03-05
+TKT-1037,staff37@uaf-africa.org,M365 Forms,Data export to Excel failing due to character encoding issue.,Open,2026-03-06
+TKT-1038,staff38@uaf-africa.org,Hardware,Power adapter overheating during high-intensity compilation tasks.,Resolved,2026-03-07
+TKT-1039,staff39@uaf-africa.org,VPN Connectivity,Latency spike affecting voice call quality over secure tunnel.,Resolved,2026-03-08
+TKT-1040,staff40@uaf-africa.org,M365 Outlook,Shared mailbox delegate permissions not reflecting in folder list.,Resolved,2026-03-09
+TKT-1041,staff1@uaf-africa.org,Password Reset,Self-service password recovery link returning 404 error.,Resolved,2026-03-10
+TKT-1042,staff2@uaf-africa.org,Hardware,Laptop cooling fan making loud rattling noise during startup.,Resolved,2026-03-11
+TKT-1043,staff3@uaf-africa.org,M365 SharePoint,External partner link expired prematurely before document review.,Open,2026-03-12
+TKT-1044,staff4@uaf-africa.org,Password Reset,Temporary verification code SMS delayed by more than 15 minutes.,Resolved,2026-03-13
+TKT-1045,staff5@uaf-africa.org,VPN Connectivity,Unable to route traffic through regional gateway after system update.,Open,2026-03-14
+TKT-1046,staff6@uaf-africa.org,M365 Teams,Meeting recording failed to process and save to Stream cloud storage.,Resolved,2026-03-15
+TKT-1047,staff7@uaf-africa.org,M365 Outlook,Add-in panel crashing Outlook client on startup.,Resolved,2026-03-16
+TKT-1048,staff8@uaf-africa.org,Hardware,Docking station Ethernet port not passing network data packet.,Open,2026-03-17
+TKT-1049,staff9@uaf-africa.org,Security,Suspicious login notification received from unrecognized mobile device.,Resolved,2026-03-18
+TKT-1050,staff10@uaf-africa.org,M365 OneDrive,File syncing paused indefinitely due to unhandled path conflict.,Open,2026-03-19
+TKT-1051,staff11@uaf-africa.org,Printer,Color toner cartridge replacement error prompt not clearing.,Resolved,2026-03-20
+TKT-1052,staff12@uaf-africa.org,Password Reset,Self-service portal locking account after single failed attempt.,Resolved,2026-03-21
+TKT-1053,staff13@uaf-africa.org,M365 Forms,Conditional branching logic broken on regional survey form.,Open,2026-03-22
+TKT-1054,staff14@uaf-africa.org,VPN Connectivity,Frequent packet drop and jitter on secure tunnel connection.,Resolved,2026-03-23
+TKT-1055,staff15@uaf-africa.org,M365 SharePoint,Missing search index results for newly uploaded grant reports.,Resolved,2026-03-24
+TKT-1056,staff16@uaf-africa.org,Hardware,Internal SSD health warning alert triggered by diagnostic tool.,Open,2026-03-25
+TKT-1057,staff17@uaf-africa.org,M365 Teams,Live captions not displaying during multi-participant conference call.,Resolved,2026-03-26
+TKT-1058,staff18@uaf-africa.org,Password Reset,Authenticator app sync issue preventing MFA prompt display.,Resolved,2026-03-27
+TKT-1059,staff19@uaf-africa.org,M365 Outlook,Shared calendar permissions reverting to read-only automatically.,Open,2026-03-28
+TKT-1060,staff20@uaf-africa.org,Security,Endpoint firewall rule blocking authorized remote management traffic.,Resolved,2026-03-29
